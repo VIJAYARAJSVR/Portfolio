@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: `/Portfolio`,
   siteMetadata: {
     title: `Vijayaraj's Portfolio`,
-    description: `description.`,
+    description: `project i worked, technical skills, license, certification, about me, companies.`,
     author: `vijayaraj suyambu`,
   },
   plugins: [
