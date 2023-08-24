@@ -1,0 +1,62 @@
+{
+  "name": "vijayarajsuyambu",
+  "private": false,
+  "description": "Portfolio",
+  "version": "2.0.2",
+  "author": "vijayaraj suyambu",
+  "dependencies": {
+    "@mdx-js/react": "^2.3.0",
+    "gatsby": "^5.11.0",
+    "gatsby-awesome-pagination": "^0.3.8",
+    "gatsby-plugin-image": "^3.11.0",
+    "gatsby-plugin-manifest": "^5.11.0",
+    "gatsby-plugin-mdx": "^5.11.0",
+    "gatsby-plugin-postcss": "^6.11.0",
+    "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-plugin-sitemap": "^6.11.0",
+    "gatsby-plugin-styled-components": "^6.11.0",
+    "gatsby-remark-images": "^7.11.0",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-json": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
+    "gatsby-transformer-sharp": "^5.11.0",
+    "gatsby-transformer-yaml": "^5.11.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "gatsby-plugin-gatsby-cloud": "^5.1.0",
+    "gatsby-plugin-offline": "^6.1.0",
+    "gatsby-plugin-sass": "^6.1.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.0.0",
+    "sass": "1.66.1"
+  },
+  "devDependencies": {
+
+    "prettier": "2.5.1",
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "gh-pages": "^6.0.0",
+    "typescript": "^5.1.6"
+  },
+  "keywords": [
+    "vijayaraj",
+    "portfolio",
+    "suyambu"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby clean && gatsby develop -p 8010",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "typecheck": "tsc --noEmit",
+
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+
+  "main": "gatsby-browser.js"
+}
