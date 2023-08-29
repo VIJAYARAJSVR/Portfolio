@@ -13,7 +13,7 @@ const IndexPage = () => (
           <h1 className="fw-light"> Welcome to Vijayaraj's Portfolio </h1>
           <p className="lead text-muted"> This website is under development</p>
           <StaticImage
-            src="../images/gatsby-astronaut.png"
+            src="../images/vijayaraj.jpg"
             width={300}
             quality={95}
             className="img-fluid"

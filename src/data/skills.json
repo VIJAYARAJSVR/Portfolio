@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "iOS",
+    "experience": 6.5
+  },
+  {
+    "id": 2,
+    "name": "Android",
+    "experience": 5.3
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "experience": 7.4
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "experience": 6.4
+  },
+  {
+    "id": 5,
+    "name": "Node.js",
+    "experience": 5
+  },
+  {
+    "id": 6,
+    "name": "AWS",
+    "experience": 3.5
+  },
+  {
+    "id": 7,
+    "name": "DB",
+    "experience": 7.5
+  },
+  {
+    "id": 8,
+    "name": "Django",
+    "experience": 4.9
+  },
+  {
+    "id": 9,
+    "name": "( A.I )",
+    "experience": 1.9
+  },
+  {
+    "id": 10,
+    "name": "Ruby",
+    "experience": 4
+  }
+]
+

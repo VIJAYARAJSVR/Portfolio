@@ -1,0 +1,29 @@
+#mediacontrols {
+    width: 820px;
+    /*margin-top: 0.3rem;*/
+}
+
+#timedisplay {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(180, 180, 180);
+    /*font-size: 1.4rem;*/
+}
+
+#controlbarrail {
+    background-color: darkred;
+    height: 10px;
+    margin-bottom: 0.6rem;
+    cursor: pointer;
+}
+
+
+#controlbarfill {
+    background-color: rgb(236, 216, 172);
+    height: 10px;
+    cursor: pointer;
+}
+
+#playbutton, #pausebutton {
+    color: rgb(236, 216, 172);
+    background-color: #4e4d4d;
+}

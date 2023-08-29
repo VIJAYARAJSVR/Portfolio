@@ -1,0 +1,1063 @@
+[
+  {
+    "id": 1,
+    "name": "Pepsico",
+    "full_name": "Pepsico",
+    "description": [
+      "Official online ordering and home delivery website and app of Dubai Refreshment & Pepsi Dubai. People can find DRC products categorized into Carbonated Soft drinks, Aquafina, Gatorade, Lipton Ice Tea, Top Fruit Juices, Robinsons Real Fruit Juice, Teisseire Syrup, Snacks, Cakes, Ice Creams, etc. People can order anything from a range of products from the comfort of their homes, and the Pepsi team will deliver to their doorstep."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+      "pepsidrc.com"
+    ],
+    "ios_app": [
+      "apps.apple.com/us/app/pepsidrc/id1532856157"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.pepsidrc.drcshopping&hl=en_AU&gl=US"
+    ],
+    "thumbnail": "pepsi"
+  },
+  {
+    "id": 2,
+    "name": "Adjust",
+    "full_name": "Adjust",
+    "description": [
+      "The adjust Insights app helps us discover details about the user's device.",
+      "End-to-end solution for every stage of the app marketing journey. Measure, optimize, and scale app growth across platforms.",
+      "Everything in one measurement and analytics suite"
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Node JS",
+          "Express JS",
+          "Graph QL"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "SQLite",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "React Native"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.adjust.com/",
+      "www.adjust.com/blog/"
+    ],
+    "ios_app": [
+      "apps.apple.com/us/app/adjust-insights/id1125517808"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.adjust.insights&hl=en&gl=US"
+    ],
+    "thumbnail": "adjust"
+  },
+  {
+    "id": 3,
+    "name": "Living Tree",
+    "full_name": "Living Tree",
+    "description": [
+      "LivingTree connects people who raise, develop, and educate children. It helps parents, loved ones, teachers, and coaches raise children. Send alerts, manage volunteers, share messages, photos, files, calendar events, and more – all in a single, private and secure place, wherever you are. The best technology has to offer to enable schools, districts, communities, and families to partner in developing children. It includes everyone in the conversation regardless of the preferred language. ",
+      "A web and mobile based school application which is easy-to-use,all-in-one online fundraising platform for school teachers, teams, clubs, and education foundation.",
+      "An Online Professional Development program that equips leaders and teachers with effective strategies that improve parent communication and create authentic family engagement.",
+      "Sell items online with the School Store",
+      "Built-in marketing and management tools"
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Node JS",
+          "Express JS",
+          "Graph QL"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "Angular"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "MySQL",
+          "Redis",
+          "SQLite"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "USA",
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+      "learn.livingtree.com/"
+    ],
+    "ios_app": [
+      "learn.livingtree.com/products/engage/"
+    ],
+    "android_app": [
+      "learn.livingtree.com/products/engage/"
+    ],
+    "thumbnail": "livingtree"
+  },
+  {
+    "id": 4,
+    "name": "Busch Jaeger",
+    "full_name": "Busch Jaeger",
+    "description": [
+      "Control Touch transforms the office into an intelligent workplace. Whether blinds, \nlights, heating, air conditioning, door communication or scenes. Easy to remote control via a switch on the wall with the smartphone or tablet. This multifunctional remote control allows you to make adjustments later without the need for previous experience. With the help of a smartphone or tablet, all functions are easily configurable.",
+      "These innovative and high-quality movement and presence detectors by ABB/Busch-Jaeger make life more comfortable. They are alert, helpful, and efficient. And they automatically manage many tasks in every sector of the building. Indoors and outdoors. Regarding safety, you know precisely when the light is needed. And other functions, such as heating and air-conditioning, can be intelligently and reliably integrated. Busch-Watchdogs are a unique combination of design, safety, efficiency and comfort."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "Angular"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "SQLite",
+          "MySQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "React Native"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "Germany",
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.busch-jaeger.de/en"
+    ],
+    "ios_app": [
+      "apps.apple.com/us/app/busch-controltouch/id1099217049"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=de.buschjaeger.controltouch"
+    ],
+    "thumbnail": "bush"
+  },
+  {
+    "id": 5,
+    "name": "TGLiving",
+    "full_name": "Transguard Living",
+    "description": [
+      "Transguard Living offers home maintenance, cleaning and moving services in UAE. Dedicated home services which offers comprehensive suite of services to individuals, landlords, property developers and real estate agents.",
+      "App from Transguard Living makes it easier to find, book and pay for home service."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Node JS",
+          "dotnet"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS",
+          "Bootstrap",
+          "JQuery"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "SQLite",
+          "SQLServer"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "React Native"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.transguardliving.com"
+    ],
+    "ios_app": [
+      "apps.apple.com/ae/app/transguard-living/id1555927081"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.mysalesforce.mycommunity.C00D24000000f19SEAQ.A0OT06000000GmaAGAS"
+    ],
+    "thumbnail": "tgliving"
+  },
+  {
+    "id": 6,
+    "name": "Hilti",
+    "full_name": "Hilti",
+    "description": [
+      "Hilti 'ON Track' Website and Mobile app to manage your construction assets anytime, anywhere. Together with the Hilti 'ON Track' asset management solution, the mobile app brings you visibility and accountability to the vendor's entire fleet of assets."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Ruby",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "dotnet"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "SQLite",
+          "MySQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "xamarin"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.hilti.ae"
+    ],
+    "ios_app": [
+      "apps.apple.com/us/app/hilti-on-track-3/id1440949754"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.hilti.mobile.ontrack3"
+    ],
+    "thumbnail": "hilti"
+  },
+  {
+    "id": 7,
+    "name": "Hungama",
+    "full_name": "Hungama",
+    "description": [
+      "Hungama.com is a leading digital entertainment company that launched a digital entertainment storefront with over 2 million pieces of content across genres and languages in music tracks, movies, videos & dialogues. Hungama Music the application will allow users to browse, search, subscribe and play the music, radio, and video of their choice on Web, Android and iOS devices.",
+      "Hungama Music client application will allow users to browse, search, subscribe and play the music, radio, and video of their choice on an iOS device. The term “Client” referred to here means Client application which will run on iOS devices unless stated otherwise. The term “Server” refers to the Hungama / Catchmedia Server to which the client will connect to access the information about the content."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Express JS",
+          "Node JS",
+          "GraphQL"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "MySQL",
+          "SQLite"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.hungama.com"
+    ],
+    "ios_app": [
+      "apps.apple.com/in/app/hungama-music-hindi-english/id414009038"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.hungama.myplay.activity&hl=en"
+    ],
+    "thumbnail": "hungama"
+  },
+  {
+    "id": 8,
+    "name": "DRC",
+    "full_name": "Dubai Refreshment Pepsico",
+    "description": [
+      "Dubai Refreshment is a leading F&B manufacturing and distribution company in the lower gulf. As one of UAE’s leading homegrown companies and partners of the world’s most prominent brands,  The company strive to excel in everything to do as a way of life and not as a one-time milestone. For example, DRC introduced the Pepsi range of products to the UAE and has been doing the same successfully for almost 60 years.",
+      "Official online ordering and home delivery website and app of Dubai Refreshment & Pepsi Dubai. People can find DRC products categorized into Carbonated Soft drinks, Aquafina, Gatorade, Lipton Ice Tea, Top Fruit Juices, Robinsons Real Fruit Juice, Teisseire Syrup, Snacks, Cakes, Ice Creams, etc. People can order anything from a range of products from the comfort of their homes, and the Pepsi team will deliver to their doorstep."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+    ],
+    "thumbnail": "drc"
+  },
+  {
+    "id": 9,
+    "name": "TGRewards",
+    "full_name": "Tranguard Rewards",
+    "description": [
+      "Transguard company launches a rewards program which is a benefit scheme \nexclusively for all Transguard Group employees and their dependents (contract) \nemployees to avail of a wide range of discounted offers and value-added services \nfrom a list of partners all over the UAE. \n"
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.tgrewards.com"
+    ],
+    "ios_app": [
+      "apps.apple.com/ae/app/transguard-reward/id1623114926"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.transguardgroup.transguardrewards"
+    ],
+    "thumbnail": "rewards"
+  },
+  {
+    "id": 10,
+    "name": "Fleet Tracker",
+    "full_name": "Fleet Tracker",
+    "description": [
+      "Fleet tracking systems allow businesses to efficiently monitor their trucks, trailers, vans, and other vehicles and equipment.",
+      "Track vehicles in real-time",
+      "Location Tracking",
+      "Asset and team member assignments",
+      "Vehicle usage metrics",
+      "Preventive maintenance schedules",
+      "Fuel tracking and consumption",
+      "Work orders and statuses",
+      "Fleet operating expenses",
+      "Configurable vehicle inspections"
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+    ],
+    "thumbnail": "fleet"
+  },
+  {
+    "id": 11,
+    "name": "Employee Service Portal",
+    "full_name": "Employee Service Portal",
+    "description": [
+      "The Employee Service Portal (ESP) is a simple way for Transguard employees to access tools and information to support their both work and life – anywhere, anytime.",
+      "A query ticketing system enabling business units to track and respond to queries raised by employees and internal stakeholders. The system allows employees or support teams to log a question, allocate a query to the relevant team member, track the query's status, log its resolution and report on all queries.",
+      "Raise queries directly to the HR Helpdesk."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "United Arab Emirates"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=com.transguardgroup.esp&hl=en&gl=US"
+    ],
+    "thumbnail": "esp"
+  },
+  {
+    "id": 12,
+    "name": "Life Insurance",
+    "full_name": "HDFC Life Insurance",
+    "description": [
+      "The purpose of this HDFC Life website is to know about HDFC products, download product brochures, benefit Illustrations, proposal forms, claim forms, and service request forms; a customer who wants to know about the policy and products of HDFC Life Insurance fill a form in the “meet an Advisor” page, based upon the customer selected city, HDFC Advisor directly contact them and explain about the products. This site also provides a survey about insurance. So it helps HDFC track customers’ needs, and this site has Planning Tools like a child calculator and a premium calculator. In addition, customers can get the address and map direction of the selected HDFC branch by using a branch locator."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+    ],
+    "thumbnail": "hdfc"
+  },
+  {
+    "id": 13,
+    "name": "Toyota",
+    "full_name": "Toyota",
+    "description": [
+      "Built on a 360-degree connected & secure platform backed by Toyota’s human touch of dealers, service providers & support executives, Toyota i-Connect intends to deliver a Premium, Fully Integrated & Seamless Ownership Experience.",
+      "For connected Toyota cars, get relevant service info to your car.",
+      "Toyota i-Connect is a one-stop intelligent solution to provide an integrated & seamless experience to all Toyota vehicle owners. It offers many features to intelligently stay connected with the customer's car, family & Toyota. It is compatible with smartwatches and voice assistants in addition to smartphones. "
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Software Engineer, Full Stack developer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "Thailand ",
+      " India"
+    ],
+    "duration": "4 months",
+    "website": [
+      "www.toyotabharat.com",
+      "www.toyotabharat.com/toyota-i-connect"
+    ],
+    "ios_app": [
+      "apps.apple.com/ae/app/t-connect-m-e/id781407316?ign-mpt=uo%3D4"
+    ],
+    "android_app": [
+      "play.google.com/store/apps/details?id=me.co.tsp.tconnectme"
+    ],
+    "thumbnail": "toyota"
+  },
+  {
+    "id": 14,
+    "name": "kenamental",
+    "full_name": "kenamental",
+    "description": [
+      "This project aims to provide complaints for different products and get a reply from the products handling teams. Unlike other CMS in the market, the system records the call or customer emails. When customers send a complaint based on the product, the complaints can be allocated to different persons and tracked to closure if they find a faulty product. Admin assigns complaints to different employees according to their functionality in the organisation. Employees and Admin contain their predefined roles. They were tracking the complaint raised, resolving and generating reports."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Trainer ",
+      " Software Engineer"
+    ],
+    "responsibilities": [
+      "Communicate the project plan to management and stakeholders.",
+      "Manage the definition of the project scope and project deliverables and ensure they are aligned with the project charter.",
+      "Involved in design, implement and deploy Web and Mobile Application and end to end product development and deliver to the business unit.",
+      "Initiation, Planning, Execution, Monitoring and Tracking the Projects."
+    ],
+    "locations": [
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+    ],
+    "thumbnail": "kenamental"
+  },
+  {
+    "id": 15,
+    "name": "3D Secure",
+    "full_name": "3-D Secure PAYMENT",
+    "description": [
+      "This Project is a client and server-based application which implements CA 3-D Secure. 3-D Secure is a protocol designed to be an additional security layer for online credit and debit card transactions. CA Rapid App Security provides End-user experience with Higher Security, and its Use Case is in Health Care, Finance, Retail and Automobile. It supports OAuth, OpenID and CA Advanced Authentication."
+    ],
+    "technology": [
+      {
+        "id": 1,
+        "category": "Back-end",
+        "skills": [
+          "Django",
+          "Node JS",
+          "Ruby on Rails"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Front-end",
+        "skills": [
+          "Javascript",
+          "HTML5",
+          "CSS3",
+          "React JS"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Database",
+        "skills": [
+          "AWS",
+          "Firebase",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Mobile",
+        "skills": [
+          "IOS",
+          "Android",
+          "Flutter"
+        ]
+      }
+    ],
+    "roles": [
+      "Trainer ",
+      " Software Engineer"
+    ],
+    "responsibilities": [
+      "Implemented 3D Secure 2.0 for frictionless and cashless flow.",
+      "Created Custom Framework for 3D Secure implementation in iOS App.",
+      "Written Test Classes for MAS custom security Framework.",
+      "Done Regression Testing CA Mobile API Gateway and MAS Console web application."
+    ],
+    "locations": [
+      "India"
+    ],
+    "duration": "4 months",
+    "website": [
+    ],
+    "ios_app": [
+    ],
+    "android_app": [
+    ],
+    "thumbnail": "3dsecure"
+  }
+]
